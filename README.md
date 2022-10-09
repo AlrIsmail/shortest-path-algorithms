@@ -1,2 +1,2 @@
 # shortest-path-algorithms
-Python shortest path algorithms (Bellemen-Ford and Djkstra)
+Python shortest path algorithms (Bellman-Ford and Djkstra)
